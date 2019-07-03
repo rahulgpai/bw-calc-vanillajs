@@ -492,8 +492,3 @@ if (document.querySelector("#calc-form-two")) {
     }
   });
 }
-
-// Event: Startover button click action - reset the local storage and display form one
-if (document.querySelector("#startover") !== null) {
-  document.querySelector("#startover").addEventListener("click", e => {});
-}
